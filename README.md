@@ -1,5 +1,5 @@
-# Pong-Game
-
+# Pong Game 
+### [Work in progress...]
 
 The purpose of this project is to implement an AI-controlled paddle (either the left or the right will do) such 
 that it will try to deflect the ball at all times. 
